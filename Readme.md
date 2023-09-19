@@ -1,0 +1,1 @@
+Olá. Obtenha nostificações de vendas da gringa!
