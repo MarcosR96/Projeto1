@@ -1,1 +1,2 @@
-Olá. Obtenha nostificações de vendas da gringa!
+Olá. Obtenha notificações de vendas da gringa!
+Isso é uma Alteração
